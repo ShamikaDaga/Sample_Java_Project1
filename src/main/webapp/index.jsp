@@ -3,7 +3,7 @@
 	<h2>Welcome to NMIMS</h2>
 
 
-	<a href="displayForm.htm">Registration Form</a>
+	<a href="displayForm.htm">Registration Form NMIMS</a>
 
 </body>
 </html>
